@@ -1,0 +1,31 @@
+{
+  "types": [
+
+  ],
+  "dependencies": [
+
+  ],
+  "version": "0.0.1",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "lib/puppet/type/README.markdown": "34b8c80ba8683afca99f2d28ca7e70b2",
+    "spec/unit/puppet/provider/README.markdown": "e52668944ee6af2fb5d5b9e798342645",
+    "lib/puppet/facter/timmachine.rb": "b8db0ebc2c448d0fea90587525f09423",
+    "files/README.markdown": "3d44458cc68d8513b51e3b56c604eec4",
+    "lib/puppet/provider/README.markdown": "3835801d7626dd8d541c4fdf7ca9f3e4",
+    "lib/puppet/parser/functions/README.markdown": "e596ce938864a80fd1e51640cca7f612",
+    "manifests/README.markdown": "b9970454391883e36b55137328792a55",
+    "tests/init.pp": "22cf38ffe77115e029ed900d7a7ad5ba",
+    "templates/README.markdown": "aada0a1952329e46b98695349dba6203",
+    "spec/README.markdown": "32a1fc0121c28aff554ef5d422b8b51e",
+    "README.markdown": "c72c691baf7ab02eb7c6d26532515504",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "lib/puppet/facter/warranty.rb": "56b6061284e993d50f8bfd0dafcb2c4f",
+    "spec/unit/puppet/type/README.markdown": "de26a7643813abd6c2e7e28071b1ef94",
+    "Modulefile": "fcd68994d7a72dc4fb3b902a21fb6628",
+    "manifests/init.pp": "032c43e67287abf62e7978c4ec55ca50",
+    "lib/puppet/facter/README.markdown": "145e26334b4d80e48e9e55ba78800579"
+  },
+  "name": "ccaum-macfacts"
+}
